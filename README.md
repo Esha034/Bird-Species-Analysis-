@@ -5,7 +5,7 @@ An interactive data analytics project that explores bird species distribution ac
 ---
 
 ## 🚀 Live Demo
-(Will be added after deployment)
+https://birds-insights-dashboard.streamlit.app/
 
 ---
 
