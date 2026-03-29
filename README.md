@@ -9,7 +9,7 @@ An interactive data analytics project that explores bird species distribution ac
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 This project analyzes bird observation data to understand:
 
 - Habitat-based species distribution  
@@ -30,19 +30,19 @@ This project analyzes bird observation data to understand:
 ---
 
 ## 📁 Project Structure
-
-│
-├── app/
-│ └── app.py
-│
-├── data/
-│ ├── raw/
-│ └── processed/
-│
-├── analysis.ipynb
-├── sql_analysis.sql
-├── requirements.txt
-└── README.md
+  
+  │
+  ├── app/
+  │ └── app.py
+  │
+  ├── data/
+  │ ├── raw/
+  │ └── processed/
+  │
+  ├── analysis.ipynb
+  ├── sql_analysis.sql
+  ├── requirements.txt
+  └── README.md
 
 
 ---
@@ -84,4 +84,4 @@ Deploy on cloud platforms
 
 ## 👨‍💻 Author
 
-Sibam Sen 💙
+Eshani Banik
