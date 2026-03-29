@@ -32,16 +32,27 @@ This project analyzes bird observation data to understand:
 ## 📁 Project Structure
   
   │
+  
   ├── app/
+  
   │ └── app.py
+  
   │
+  
   ├── data/
+  
   │ ├── raw/
+  
   │ └── processed/
+  
   │
+  
   ├── analysis.ipynb
+  
   ├── sql_analysis.sql
+  
   ├── requirements.txt
+  
   └── README.md
 
 
