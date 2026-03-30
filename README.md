@@ -26,16 +26,6 @@ f. Biodiversity Monitoring: Track the health and diversity of avian populations,
 
 ---
 
-## Project Overview
-This project analyzes bird observation data to understand:
-
-- Habitat-based species distribution  
-- Seasonal trends in bird activity  
-- Biodiversity hotspots  
-- Environmental impact on bird behavior  
-
----
-
 ## 🛠️ Tech Stack
 
 - Python  
