@@ -2,10 +2,22 @@
 
 An interactive data analytics project that explores bird species distribution across forest and grassland ecosystems.
 
----
 
 ## 🚀 Live Demo
 https://birds-insights-dashboard.streamlit.app/
+
+# Problem Statement:
+
+The project aims to analyze the distribution and diversity of bird species in two distinct ecosystems: forests and grasslands. By examining bird species observations across these habitats, the goal is to understand how environmental factors, such as vegetation type, climate, and terrain, influence bird populations and their behavior. The study will involve working on the provided observational data of bird species present in both ecosystems, identifying patterns of habitat preference, and assessing the impact of these habitats on bird diversity. The findings can provide valuable insights into habitat conservation, biodiversity management, and the effects of environmental changes on avian communities.
+
+# Business Use Cases:
+
+a. Wildlife Conservation: Inform decisions on protecting critical bird habitats and enhancing biodiversity conservation efforts.
+b. Land Management: Optimize land use and habitat restoration strategies by understanding the preferences of different bird species.
+c. Eco-Tourism: Identify bird-rich areas to develop bird-watching tourism, attracting eco-tourists and boosting local economies.
+d. Sustainable Agriculture: Support the development of agricultural practices that minimize the impact on bird populations in grasslands and forests.
+e. Policy Support: Provide data-driven insights to help environmental agencies create effective conservation policies and strategies for vulnerable bird species.
+f. Biodiversity Monitoring: Track the health and diversity of avian populations, aiding in the monitoring of ecosystem stability.
 
 ---
 
