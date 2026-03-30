@@ -32,7 +32,8 @@ f. Biodiversity Monitoring: Track the health and diversity of avian populations,
 - Pandas  
 - Matplotlib  
 - Streamlit  
-- PostgreSQL (for backend queries)  
+- PostgreSQL (for backend queries)
+- PowerBI 
 
 ---
 
